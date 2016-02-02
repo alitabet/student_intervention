@@ -21,3 +21,9 @@ __pycache__
 .#*
 .coverage
 *.swp
+# idea project files
+.idea/
+.idea/.name
+*.iml
+*.ipr
+*.iws
